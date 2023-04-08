@@ -32,9 +32,5 @@
     "webpack": "^5.77.0"
   },
   "author": "Ivan Mushketyk",
-  "license": "MIT",
-  "scripts": {
-    "test": "jest",
-    "coverage": "jest --coverage"
-  }
+  "license": "MIT"
 }
