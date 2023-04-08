@@ -1,5 +1,5 @@
 # TODO: Change the name of the org 
-# org: maian1891
+org: maian1891
 app: serverless-todo-app
 service: serverless-todo-app
 
